@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://brleinad.github.io/zola-repro-1/sitemap.xml
