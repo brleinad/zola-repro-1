@@ -9,4 +9,4 @@ jobs:
     - name: shalzz/zola-deploy-action
       uses: shalzz/zola-deploy-action@master
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
